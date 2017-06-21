@@ -10,7 +10,8 @@ var elixir = require('laravel-elixir');
  | file for our application, as well as publishing vendor resources.
  |
  */
-
+elixir.config.assetsPath = 'resources/';
+elixir.config.publicPath = 'public/assets/';
 elixir(function(mix) {
-    mix.sass('/resources/scss/app.scss','')
+    mix.sass('app.scss','')
 });
