@@ -11,5 +11,6 @@ Resource Planner is a resource based project management portal.
  - copy the package.json and gulpfile.js file
  - configure elixir.config.assetsPath for gulp source
  - configure elixir.config.publicPath for compiled files
+ - run sudo npm install from your project root dir to install npm gulp packages
  - for other elixir gulp stuff refer official link
  https://laravel.com/docs/5.3/elixir
