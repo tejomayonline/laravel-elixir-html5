@@ -1,4 +1,4 @@
-<img src="public/assets/images/gulp.jpg"></p>
+<img src="target/assets/images/gulp.jpg"></p>
 
 <p align="center">
 
